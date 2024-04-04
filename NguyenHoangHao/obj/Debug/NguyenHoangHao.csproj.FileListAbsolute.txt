@@ -1,0 +1,18 @@
+/home/khanhhoa/HoangHao/CaNhan/LCS3_292T26/DeThiCuoiKhoa/DoAn/NguyenHoangHao/bin/Debug/NguyenHoangHao.exe
+/home/khanhhoa/HoangHao/CaNhan/LCS3_292T26/DeThiCuoiKhoa/DoAn/NguyenHoangHao/bin/Debug/NguyenHoangHao.pdb
+/home/khanhhoa/HoangHao/CaNhan/LCS3_292T26/DeThiCuoiKhoa/DoAn/NguyenHoangHao/obj/Debug/NguyenHoangHao.csproj.AssemblyReference.cache
+/home/khanhhoa/HoangHao/CaNhan/LCS3_292T26/DeThiCuoiKhoa/DoAn/NguyenHoangHao/obj/Debug/NguyenHoangHao.csproj.CoreCompileInputs.cache
+/home/khanhhoa/HoangHao/CaNhan/LCS3_292T26/DeThiCuoiKhoa/DoAn/NguyenHoangHao/obj/Debug/NguyenHoangHao.exe
+/home/khanhhoa/HoangHao/CaNhan/LCS3_292T26/DeThiCuoiKhoa/DoAn/NguyenHoangHao/obj/Debug/NguyenHoangHao.pdb
+/home/khanhhoa/HoangHao/CaNhan/LCS3_292T26/DeThiCuoiKhoa/DoAn (copy)/NguyenHoangHao/bin/Debug/NguyenHoangHao.exe
+/home/khanhhoa/HoangHao/CaNhan/LCS3_292T26/DeThiCuoiKhoa/DoAn (copy)/NguyenHoangHao/bin/Debug/NguyenHoangHao.pdb
+/home/khanhhoa/HoangHao/CaNhan/LCS3_292T26/DeThiCuoiKhoa/DoAn (copy)/NguyenHoangHao/obj/Debug/NguyenHoangHao.csproj.AssemblyReference.cache
+/home/khanhhoa/HoangHao/CaNhan/LCS3_292T26/DeThiCuoiKhoa/DoAn (copy)/NguyenHoangHao/obj/Debug/NguyenHoangHao.csproj.CoreCompileInputs.cache
+/home/khanhhoa/HoangHao/CaNhan/LCS3_292T26/DeThiCuoiKhoa/DoAn (copy)/NguyenHoangHao/obj/Debug/NguyenHoangHao.exe
+/home/khanhhoa/HoangHao/CaNhan/LCS3_292T26/DeThiCuoiKhoa/DoAn (copy)/NguyenHoangHao/obj/Debug/NguyenHoangHao.pdb
+/home/khanhhoa/HoangHao/CaNhan/LCS3_292T26/DeThiCuoiKhoa/DoAn (1)/NguyenHoangHao/bin/Debug/NguyenHoangHao.exe
+/home/khanhhoa/HoangHao/CaNhan/LCS3_292T26/DeThiCuoiKhoa/DoAn (1)/NguyenHoangHao/bin/Debug/NguyenHoangHao.pdb
+/home/khanhhoa/HoangHao/CaNhan/LCS3_292T26/DeThiCuoiKhoa/DoAn (1)/NguyenHoangHao/obj/Debug/NguyenHoangHao.csproj.AssemblyReference.cache
+/home/khanhhoa/HoangHao/CaNhan/LCS3_292T26/DeThiCuoiKhoa/DoAn (1)/NguyenHoangHao/obj/Debug/NguyenHoangHao.csproj.CoreCompileInputs.cache
+/home/khanhhoa/HoangHao/CaNhan/LCS3_292T26/DeThiCuoiKhoa/DoAn (1)/NguyenHoangHao/obj/Debug/NguyenHoangHao.exe
+/home/khanhhoa/HoangHao/CaNhan/LCS3_292T26/DeThiCuoiKhoa/DoAn (1)/NguyenHoangHao/obj/Debug/NguyenHoangHao.pdb
