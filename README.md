@@ -1,5 +1,6 @@
 # LCS3_292T26
 CHƯƠNG TRÌNH QUẢN LÝ VIỆC LÀM
+
 Xây dựng ứng dụng dạng Console Application cho phép người dùng quản lý với các chức năng:
  - Tạo lớp việc cần làm với các thông tin :
    + Tên việc làm
